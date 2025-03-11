@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container1{
+    width: 100%;
+    height: 80px;
+    border: 1px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.img{
+    width: 224.76px;
+    top: 10px;
+    margin-right: 20px;
+}
+.t{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+}
+a{
+    text-decoration: none;
+}
+#E{
+    background-color: #FFFFFF;
+    width: 100px;
+    height: 40px;
+    border-radius: 7px;
+    color: #17538A;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    justify-content: center;
+}
+#S{
+    background-color: #17538A;
+    width: 76px;
+    height: 40px;
+    border-radius: 7px;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    justify-content: center;
+}
+.a{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 5px;
+}
+.container{
+    background-color: #17538A;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+.rg{
+    background-color: white;
+    width: 1000px;
+    height: 646px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+.imgl{
+    width: 274px;
+    height: 194px;
+    background-color: #3C8A17;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img2{
+    width: 183px;
+    height: 194px;
+    margin-left: 80px;
+}
+.left{
+    width: 328px;
+    height: 322px;
+    border: 1px solid #17538A;
+    margin-right: 100px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.right{
+    width: 328px;
+    height: 322px;
+    border: 1px solid #000000;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.r{
+    background-color: #FFF500;
+    width: 274px;
+    height: 194px;
+}
+.h{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #000000;
+}

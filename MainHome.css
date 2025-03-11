@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container1{
+    width: 100%;
+    height: 80px;
+    border: 1px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.img{
+    width: 224.76px;
+    top: 10px;
+    margin-right: 20px;
+}
+.t{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+}
+a{
+    text-decoration: none;
+}
+#p{
+    background-color: #FAF9F9;
+    width: 71px;
+    height: 31px;
+    border-radius: 7px;
+    color: #17538A;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    justify-content: center;
+}
+#E{
+    background-color: #FFFFFF;
+    width: 100px;
+    height: 40px;
+    border-radius: 7px;
+    color: #17538A;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    justify-content: center;
+}
+#L{
+    background-color: #EDE6E6;
+    width: 76px;
+    height: 40px;
+    border-radius: 7px;
+    color: #17538A;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    justify-content: center;
+}
+#S{
+    background-color: #17538A;
+    width: 76px;
+    height: 40px;
+    border-radius: 7px;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    justify-content: center;
+}
+.a{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 5px;
+}
+.container{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img1{
+    width: 500px;
+    width: 464px;
+}
+.h1{
+    width: 456px;
+    height: 154px;
+    font-weight: 700px;
+    font-size: 60px;
+    line-height: 100%;
+}
+.j{
+    width: 456px;
+    height: 95px;
+    font-weight: 400px;
+    font-size: 24px;
+    line-height: 100%;
+}
+.quiz1{
+    width: 200px;
+    height: 80px;
+    background-color: #17538A;
+    border-radius: 15px;
+    box-shadow: 3px 6px 4px 1px #0000004D;
+}
+.quiz2{
+    width: 200px;
+    height: 80px;
+    background-color: #F2F1F1;
+    border-radius: 15px;
+    box-shadow: 3px 6px 4px 1px #0000004D;
+}
+#w{
+    font-size: 14px;
+    display: flex;
+    align-items: left;
+    padding-left: 27px;
+    color: #FFFFFF;
+}
+#w1{
+    font-size: 14px;
+    display: flex;
+    align-items: left;
+    padding-left: 38px;
+    color: #17538A;
+}
+.Create-quiz{
+    font-size: 24px;
+    color: #FFFFFF;
+}
+.Find-quiz{
+    font-size: 24px;
+    color: #17538A;
+}
